@@ -4,6 +4,8 @@ This project was completed as a group project at EPFL in Switzerland during my 5
 
 This project compares the performance of Machine Learning models for the Road Segmentation task. It's aim is to find the best model to categorize pixels in images as either road or background in order to find an effective way to distinguish road sections in images. 
 
+![Alt text](road_seg.png)
+
 ## Contributors:
 - Adam Ben Slama (<adam.benslama@epfl.ch>) 
 - Alicja Jonczyk (<alicja.jonczyk@epfl.ch>)
